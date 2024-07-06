@@ -1,0 +1,11 @@
+li {
+  width: 320px;
+  margin: 20px;
+}
+img {
+  border-radius: 12px;
+  width: 100%;
+}
+p {
+  font-weight: 400;
+}
